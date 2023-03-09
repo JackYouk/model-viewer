@@ -7,6 +7,13 @@ npm package for adding interactive glTF models directly into your react applicat
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Usage
+```cli
+npm i react-model-viewer-3d
+```
+
+```jsx
+import ModelViewer from 'react-model-viewer-3d'
+```
 
 ```jsx
 <ModelViewer
